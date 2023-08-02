@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #000000;
+
+  width: 100%;
+}
+.action-head {
+  color: #ffffff;
+  font-family: 'Roboto';
+  margin-left: 50px;
+}
+.image-prime {
+  width: 100%;
+}
+.movies-container {
+  width: 100%;
+  padding: 20px;
+}

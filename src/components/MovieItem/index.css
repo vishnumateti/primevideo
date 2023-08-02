@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.popup-content {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 8px;
+  border: 0px none transparent;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.modal-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+}
+.trigger-button {
+  background-color: transparent;
+  border: 0px none transparent;
+  align-self: flex-end;
+  outline: none;
+  margin: 5px;
+}
+.close-icon {
+  font-size: 20px;
+  color: #231f20;
+}
